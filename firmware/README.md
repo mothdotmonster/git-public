@@ -2,9 +2,9 @@
 
 You must pick the firmware that matches your microcontroller board!
 
-If you are using a Seeed Xiao RP2040, flash `xiao.uf2`.
+If you are using a [Seeed Xiao RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html), flash `xiao.uf2`.
 
-If you are using an Adafruit QT Py RP2040, flash `qtpy.uf2`.
+If you are using an [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900), flash `qtpy.uf2`.
 
 ***
 
