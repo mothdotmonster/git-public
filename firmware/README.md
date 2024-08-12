@@ -10,4 +10,4 @@ If you are using an [Adafruit QT Py RP2040](https://www.adafruit.com/product/490
 
 To use [VIA](https://usevia.app) for key remapping, upload `pgnp.json` on the Design tab.
 
-The source code is available [here](https://github.com/mothdotmonster/qmk_firmware/tree/mothdotmonster/keyboards/mothdotmonster/pgnp).
+If you'd like to modify it, the source code is available [here](https://github.com/mothdotmonster/qmk_firmware/tree/mothdotmonster/keyboards/mothdotmonster/pgnp).
